@@ -1,0 +1,229 @@
+.login-page .habit-tracker {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 32px;
+  color: #000000;
+}
+.login-page .group-8 {
+  margin-top: 1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.login-page .home {
+  margin-right: 9.5px;
+  width: 88.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page .about {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page .services {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page .contact {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  color: #983BFF;
+}
+.login-page .group-7 {
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 490.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-page .container-4 {
+  margin-bottom: 169px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1235.4px;
+  box-sizing: border-box;
+}
+.login-page .login-1 {
+  margin: 0 78.7px 29px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.login-page .flat-color-iconsgoogle {
+  width: 68px;
+  height: 68px;
+}
+.login-page .logosfacebook {
+  margin-top: 4px;
+  width: 64px;
+  height: 64px;
+}
+.login-page .vector-6 {
+  width: 52px;
+  height: 47px;
+}
+.login-page .simple-iconsx {
+  margin: 13.5px 0 7.5px 0;
+  display: flex;
+  width: 52px;
+  height: 47px;
+  box-sizing: border-box;
+}
+.login-page .container {
+  margin: 0 99.4px 51px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 68px;
+  width: 320px;
+  box-sizing: border-box;
+}
+.login-page .email {
+  margin: 5px 9.5px 0 0;
+  display: inline-block;
+  width: 702.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page .vector-7 {
+  width: 20px;
+  height: 16px;
+}
+.login-page .material-symbolsmail-outline {
+  margin-bottom: 8px;
+  display: flex;
+  width: 20px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.login-page .container-2 {
+  margin: 0 71.4px 20px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 732px;
+  box-sizing: border-box;
+}
+.login-page .line-2 {
+  background: #000000;
+  margin: 0 59.4px 29px 0;
+  width: 744px;
+  height: 1px;
+}
+.login-page .password {
+  margin: 1px 9.5px 0 0;
+  display: inline-block;
+  width: 706.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page .vector-8 {
+  width: 16px;
+  height: 20px;
+}
+.login-page .container-5 {
+  margin: 0 71.4px 10px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 732px;
+  box-sizing: border-box;
+}
+.login-page .line-4 {
+  background: #000000;
+  margin: 0 59.4px 29px 0;
+  width: 744px;
+  height: 1px;
+}
+.login-page .rectangle-5 {
+  background: #D9D9D9;
+  margin-right: 17px;
+  width: 20px;
+  height: 20px;
+}
+.login-page .remember-me {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page .container-1 {
+  margin: 0 656.6px 30px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .login {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.login-page .container-3 {
+  border-radius: 8px;
+  background: #983BFF;
+  position: relative;
+  margin: 0 59.4px 45px 0;
+  display: flex;
+  padding: 15px 40.5px 16px 0;
+  width: 744px;
+  box-sizing: border-box;
+}
+.login-page .dont-have-an-account-register {
+  margin-right: 74.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.dont-have-an-account-register {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+  color: #9E3CFF;
+}
+.login-page {
+  background: #F2F5FF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 60.6px 270px 144px;
+  width: 1440px;
+  box-sizing: border-box;
+}
